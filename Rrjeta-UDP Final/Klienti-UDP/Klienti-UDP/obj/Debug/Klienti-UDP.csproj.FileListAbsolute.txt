@@ -1,0 +1,40 @@
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-UDP\Klienti-UDP\bin\Debug\Klienti-UDP.exe.config
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-UDP\Klienti-UDP\bin\Debug\Klienti-UDP.exe
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-UDP\Klienti-UDP\bin\Debug\Klienti-UDP.pdb
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.csprojResolveAssemblyReference.cache
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti_UDP.Form1.resources
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti_UDP.Properties.Resources.resources
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.csproj.GenerateResource.Cache
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.exe
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.pdb
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\bin\Debug\Klienti-UDP.exe.config
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.exe
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.pdb
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\bin\Debug\Klienti-UDP.exe
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\bin\Debug\Klienti-UDP.pdb
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.csprojResolveAssemblyReference.cache
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti_UDP.Form1.resources
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti_UDP.Properties.Resources.resources
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.csproj.GenerateResource.Cache
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\bin\Debug\Klienti-UDP.exe.config
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.exe
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.pdb
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\bin\Debug\Klienti-UDP.exe
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\bin\Debug\Klienti-UDP.pdb
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.csprojResolveAssemblyReference.cache
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti_UDP.Form1.resources
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti_UDP.Properties.Resources.resources
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.csproj.GenerateResource.Cache
+C:\Users\shkum_3i56oju\Desktop\Faki\Semestri 4\Rrjetat Kompjuterike\SHKUMBIN_XHELADINI_p1\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\bin\Debug\Klienti-UDP.exe.config
+C:\Users\shkum_3i56oju\Desktop\Faki\Semestri 4\Rrjetat Kompjuterike\SHKUMBIN_XHELADINI_p1\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.exe
+C:\Users\shkum_3i56oju\Desktop\Faki\Semestri 4\Rrjetat Kompjuterike\SHKUMBIN_XHELADINI_p1\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.pdb
+C:\Users\shkum\Desktop\Fakullteti\Semestri 4\Rrjetat Kompjuterike\SHKUMBIN_XHELADINI_p1\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\bin\Debug\Klienti-UDP.exe.config
+C:\Users\shkum\Desktop\Fakullteti\Semestri 4\Rrjetat Kompjuterike\SHKUMBIN_XHELADINI_p1\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\bin\Debug\Klienti-UDP.exe
+C:\Users\shkum\Desktop\Fakullteti\Semestri 4\Rrjetat Kompjuterike\SHKUMBIN_XHELADINI_p1\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\bin\Debug\Klienti-UDP.pdb
+C:\Users\shkum\Desktop\Fakullteti\Semestri 4\Rrjetat Kompjuterike\SHKUMBIN_XHELADINI_p1\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.csprojResolveAssemblyReference.cache
+C:\Users\shkum\Desktop\Fakullteti\Semestri 4\Rrjetat Kompjuterike\SHKUMBIN_XHELADINI_p1\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti_UDP.Form1.resources
+C:\Users\shkum\Desktop\Fakullteti\Semestri 4\Rrjetat Kompjuterike\SHKUMBIN_XHELADINI_p1\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti_UDP.Properties.Resources.resources
+C:\Users\shkum\Desktop\Fakullteti\Semestri 4\Rrjetat Kompjuterike\SHKUMBIN_XHELADINI_p1\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.csproj.GenerateResource.Cache
+C:\Users\shkum\Desktop\Fakullteti\Semestri 4\Rrjetat Kompjuterike\SHKUMBIN_XHELADINI_p1\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.csproj.CoreCompileInputs.cache
+C:\Users\shkum\Desktop\Fakullteti\Semestri 4\Rrjetat Kompjuterike\SHKUMBIN_XHELADINI_p1\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.exe
+C:\Users\shkum\Desktop\Fakullteti\Semestri 4\Rrjetat Kompjuterike\SHKUMBIN_XHELADINI_p1\SHKUMBIN_XHELADINI_p1\Rrjeta-UDP Final\Klienti-UDP\Klienti-UDP\obj\Debug\Klienti-UDP.pdb
