@@ -1,0 +1,27 @@
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-TCP\Klienti-TCP\bin\Debug\Klienti-TCP.exe.config
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti-TCP.csprojResolveAssemblyReference.cache
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti_TCP.Form1.resources
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti_TCP.Properties.Resources.resources
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti-TCP.csproj.GenerateResource.Cache
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-TCP\Klienti-TCP\bin\Debug\Klienti-TCP.exe
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-TCP\Klienti-TCP\bin\Debug\Klienti-TCP.pdb
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti-TCP.exe
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Projekti ne Rrejta\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti-TCP.pdb
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\bin\Debug\Klienti-TCP.exe.config
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti-TCP.exe
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti-TCP.pdb
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\bin\Debug\Klienti-TCP.exe
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\bin\Debug\Klienti-TCP.pdb
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti-TCP.csprojResolveAssemblyReference.cache
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti_TCP.Form1.resources
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti_TCP.Properties.Resources.resources
+C:\Users\shkum_3i56oju\Documents\Visual Studio 2015\Projects\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti-TCP.csproj.GenerateResource.Cache
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\bin\Debug\Klienti-TCP.exe.config
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti-TCP.exe
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti-TCP.pdb
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\bin\Debug\Klienti-TCP.exe
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\bin\Debug\Klienti-TCP.pdb
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti-TCP.csprojResolveAssemblyReference.cache
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti_TCP.Form1.resources
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti_TCP.Properties.Resources.resources
+C:\Users\shkum_3i56oju\Desktop\SHKUMBIN_XHELADINI_p1\Rrjeta-TCP Final\Klienti-TCP\Klienti-TCP\obj\Debug\Klienti-TCP.csproj.GenerateResource.Cache
